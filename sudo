@@ -1,0 +1,5 @@
+sudo -i // para entrar en modo root
+
+sudo chmod 777 -R /dir/dir/folder
+
+LINUX MINT
